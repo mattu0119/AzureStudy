@@ -14,3 +14,6 @@ $url = "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/maste
 + AzureStudy-ARMtemplate_autoshutdown.json
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmattu0119%2FAzureStudy%2Fmain%2FAzureStudy-ARMtemplate_autoshutdown.json)
+
+## eicar テストファイルのダウンロード
+Invoke-WebRequest -uri https://secure.eicar.org/eicar.com -outfile c:\eicar.com

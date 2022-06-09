@@ -19,5 +19,5 @@ $url = "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/maste
 Invoke-WebRequest -uri https://secure.eicar.org/eicar.com -outfile c:\eicar.com
 
 ```Powershell
-X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+echo "X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*" > c:\test.txt
 ```

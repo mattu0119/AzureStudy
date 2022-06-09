@@ -17,3 +17,4 @@ $url = "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/maste
 
 ## eicar テストファイルのダウンロード
 Invoke-WebRequest -uri https://secure.eicar.org/eicar.com -outfile c:\eicar.com
+`X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*`

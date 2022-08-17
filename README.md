@@ -1,4 +1,4 @@
-# AzureStudy
+## AzureStudy
 + [デプロイ ボタンを使用して GitHub リポジトリからテンプレートをデプロイする](https://docs.microsoft.com/ja-jp/azure/azure-resource-manager/templates/deploy-to-azure-button)
 
 ```Powershell
@@ -14,6 +14,11 @@ $url = "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/maste
 + AzureStudy-ARMtemplate_autoshutdown.json
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmattu0119%2FAzureStudy%2Fmain%2FAzureStudy-ARMtemplate_autoshutdown.json)
+
++ asc-regulatoryCompliance-send-notification-email
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Flogicapps%2Fmaster%2Ftemplates%2Fasc-regulatoryCompliance-send-notification-email.json)
+
 
 ## eicar テストファイルのダウンロード
 Invoke-WebRequest -uri https://secure.eicar.org/eicar.com -outfile c:\eicar.com

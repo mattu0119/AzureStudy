@@ -1,7 +1,3 @@
-# テスト
-aaaa1
-
-
 ## AzureStudy
 + [デプロイ ボタンを使用して GitHub リポジトリからテンプレートをデプロイする](https://docs.microsoft.com/ja-jp/azure/azure-resource-manager/templates/deploy-to-azure-button)
 
